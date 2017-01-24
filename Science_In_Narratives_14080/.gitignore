@@ -1,4 +1,6 @@
 /*
+# exclude everything except the followings
 !/res/
 !/*.tex
 !/.gitignore
+!/*.pdf

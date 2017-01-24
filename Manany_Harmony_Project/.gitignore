@@ -4,6 +4,7 @@
 !/README.md
 !/UPDATE.TXT
 !/Manany_Harmony.tex
+!/Manany_Harmony.pdf
 !/res
 # not sure if .gitignore itself should be an exception
 !/.gitignore
